@@ -7,18 +7,36 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9A1A621C2AFCE34900DA3327 /* CustomListRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A1A621B2AFCE34900DA3327 /* CustomListRowView.swift */; };
 		9A2797B52AE6353F00EE8A31 /* Hike_AppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A2797B42AE6353F00EE8A31 /* Hike_AppApp.swift */; };
-		9A2797B72AE6353F00EE8A31 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A2797B62AE6353F00EE8A31 /* ContentView.swift */; };
 		9A2797B92AE6354200EE8A31 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9A2797B82AE6354200EE8A31 /* Assets.xcassets */; };
 		9A2797BC2AE6354200EE8A31 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9A2797BB2AE6354200EE8A31 /* Preview Assets.xcassets */; };
+		9A62DD802AF12358003A0165 /* MotionAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A62DD7F2AF12358003A0165 /* MotionAnimationView.swift */; };
+		9A62DD832AF138CF003A0165 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A62DD822AF138CF003A0165 /* ContentView.swift */; };
+		9A62DD852AF138F9003A0165 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A62DD842AF138F9003A0165 /* SettingsView.swift */; };
+		9AE08F1A2AE881E400ED83E5 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AE08F192AE881E400ED83E5 /* CardView.swift */; };
+		9AE08F1C2AE8843500ED83E5 /* CustomBackgroundView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AE08F1B2AE8843500ED83E5 /* CustomBackgroundView.swift */; };
+		9AE08F1F2AE8869B00ED83E5 /* ColorExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AE08F1E2AE8869B00ED83E5 /* ColorExtension.swift */; };
+		9AE08F212AE9165D00ED83E5 /* CustomButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AE08F202AE9165D00ED83E5 /* CustomButtonView.swift */; };
+		9AE08F232AED46A200ED83E5 /* GradientButtonStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AE08F222AED46A200ED83E5 /* GradientButtonStyle.swift */; };
+		9AE08F252AED4C9700ED83E5 /* CustomCircleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AE08F242AED4C9700ED83E5 /* CustomCircleView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9A1A621B2AFCE34900DA3327 /* CustomListRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomListRowView.swift; sourceTree = "<group>"; };
 		9A2797B12AE6353F00EE8A31 /* Hike App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Hike App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9A2797B42AE6353F00EE8A31 /* Hike_AppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hike_AppApp.swift; sourceTree = "<group>"; };
-		9A2797B62AE6353F00EE8A31 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		9A2797B82AE6354200EE8A31 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9A2797BB2AE6354200EE8A31 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		9A62DD7F2AF12358003A0165 /* MotionAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MotionAnimationView.swift; sourceTree = "<group>"; };
+		9A62DD822AF138CF003A0165 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		9A62DD842AF138F9003A0165 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		9AE08F192AE881E400ED83E5 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
+		9AE08F1B2AE8843500ED83E5 /* CustomBackgroundView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomBackgroundView.swift; sourceTree = "<group>"; };
+		9AE08F1E2AE8869B00ED83E5 /* ColorExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorExtension.swift; sourceTree = "<group>"; };
+		9AE08F202AE9165D00ED83E5 /* CustomButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomButtonView.swift; sourceTree = "<group>"; };
+		9AE08F222AED46A200ED83E5 /* GradientButtonStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientButtonStyle.swift; sourceTree = "<group>"; };
+		9AE08F242AED4C9700ED83E5 /* CustomCircleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCircleView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,8 +69,10 @@
 		9A2797B32AE6353F00EE8A31 /* Hike App */ = {
 			isa = PBXGroup;
 			children = (
+				9AE08F1D2AE8866900ED83E5 /* Utility */,
+				9AE08F182AE881CF00ED83E5 /* components */,
 				9A2797B42AE6353F00EE8A31 /* Hike_AppApp.swift */,
-				9A2797B62AE6353F00EE8A31 /* ContentView.swift */,
+				9A62DD812AF13882003A0165 /* Screen */,
 				9A2797B82AE6354200EE8A31 /* Assets.xcassets */,
 				9A2797BA2AE6354200EE8A31 /* Preview Content */,
 			);
@@ -65,6 +85,37 @@
 				9A2797BB2AE6354200EE8A31 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		9A62DD812AF13882003A0165 /* Screen */ = {
+			isa = PBXGroup;
+			children = (
+				9A62DD822AF138CF003A0165 /* ContentView.swift */,
+				9A62DD842AF138F9003A0165 /* SettingsView.swift */,
+			);
+			path = Screen;
+			sourceTree = "<group>";
+		};
+		9AE08F182AE881CF00ED83E5 /* components */ = {
+			isa = PBXGroup;
+			children = (
+				9AE08F192AE881E400ED83E5 /* CardView.swift */,
+				9AE08F1B2AE8843500ED83E5 /* CustomBackgroundView.swift */,
+				9AE08F202AE9165D00ED83E5 /* CustomButtonView.swift */,
+				9AE08F242AED4C9700ED83E5 /* CustomCircleView.swift */,
+				9A62DD7F2AF12358003A0165 /* MotionAnimationView.swift */,
+				9A1A621B2AFCE34900DA3327 /* CustomListRowView.swift */,
+			);
+			path = components;
+			sourceTree = "<group>";
+		};
+		9AE08F1D2AE8866900ED83E5 /* Utility */ = {
+			isa = PBXGroup;
+			children = (
+				9AE08F1E2AE8869B00ED83E5 /* ColorExtension.swift */,
+				9AE08F222AED46A200ED83E5 /* GradientButtonStyle.swift */,
+			);
+			path = Utility;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,8 +188,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9A2797B72AE6353F00EE8A31 /* ContentView.swift in Sources */,
+				9AE08F252AED4C9700ED83E5 /* CustomCircleView.swift in Sources */,
+				9AE08F1A2AE881E400ED83E5 /* CardView.swift in Sources */,
+				9A1A621C2AFCE34900DA3327 /* CustomListRowView.swift in Sources */,
 				9A2797B52AE6353F00EE8A31 /* Hike_AppApp.swift in Sources */,
+				9AE08F212AE9165D00ED83E5 /* CustomButtonView.swift in Sources */,
+				9AE08F232AED46A200ED83E5 /* GradientButtonStyle.swift in Sources */,
+				9A62DD852AF138F9003A0165 /* SettingsView.swift in Sources */,
+				9A62DD832AF138CF003A0165 /* ContentView.swift in Sources */,
+				9A62DD802AF12358003A0165 /* MotionAnimationView.swift in Sources */,
+				9AE08F1C2AE8843500ED83E5 /* CustomBackgroundView.swift in Sources */,
+				9AE08F1F2AE8869B00ED83E5 /* ColorExtension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -267,8 +327,10 @@
 		9A2797C02AE6354200EE8A31 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ASSETCATALOG_COMPILER_ALTERNATE_APPICON_NAMES = "AppIcon-Backpack AppIcon-Camera AppIcon-Campfire AppIcon-MagnifyingGlass AppIcon-Map AppIcon-Mushroom";
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Hike App/Preview Content\"";
@@ -296,8 +358,10 @@
 		9A2797C12AE6354200EE8A31 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ASSETCATALOG_COMPILER_ALTERNATE_APPICON_NAMES = "AppIcon-Backpack AppIcon-Camera AppIcon-Campfire AppIcon-MagnifyingGlass AppIcon-Map AppIcon-Mushroom";
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Hike App/Preview Content\"";
